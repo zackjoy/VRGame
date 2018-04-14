@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90be3146cc440134db8459ca54db31d7
+labels:
+- Effects
+- MuzzleFlash
+- Impact
+- Tracer
+- Particles
+- Light
+- ParticleSystem
+timeCreated: 1440266888
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
